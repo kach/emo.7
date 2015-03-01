@@ -34,10 +34,8 @@ BASIC
        ally a colon (:) or a semicolon (;) represent a pair of eyes, while the
        second represents a mouth.
 
-       Note,  however, that these might be rewritten using three characters by
-       placing a hyphen (-) character between the eyes and mouth to  represent
-       a  nose.  By convention, this reference does not include the nosed ver-
-       sions.
+       Note, however, that some variants of these emoticons contain more char-
+       acters. (See COMMON VARIANTS)
 
        Finally, some smileys are reversible due to the symmetry  of  the  con-
        stituent  characters. In such cases, the most commonly-used orientation
@@ -113,59 +111,81 @@ BASIC
        >:(    Conveys anger, disappointment, resent, fury.
 
 
+       XP     A cross of XD and :P.
+
+
+       :'(    Conveys crying.
+
+
+
+COMMON VARIANTS
+       :))))))))), :DDDDDDD, :((((((((, etc
+              Repeated  mouths can indicate stronger emotions (or just compul-
+              sive typists).
+
+
+       xD, xP, Xp, etc
+              The capitalization of an emoticon can  change  as  long  as  the
+              overall look of the emoticon stays essentially the same.
+
+
+       :-), :-(, ;-), etc
+              A hyphen (-) character between the eyes and mouth of an emoticon
+              represents a nose.
+
 
 NOTE ON PARENTHESES
        The  usage  of  parenthesis-terminated  emoticons  within  parenthsized
-       statements merits some discussion.  There are several possible  conven-
+       statements  merits some discussion.  There are several possible conven-
        tions which can be used.
 
-       We  can  optimize  for grammatical correctness by placing an additional
+       We can optimize for grammatical correctness by  placing  an  additional
        closing parenthesis after the emoticon:
 
               (I like it the way it is. :))
 
-       However, this looks awkward to many. The alternative is  to  leave  off
+       However,  this  looks  awkward to many. The alternative is to leave off
        the trailing parenthesis:
 
               (I like it the way it is. :)
 
-       This,  however,  appears incomplete and is not strictly correct. A com-
+       This, however, appears incomplete and is not strictly correct.  A  com-
        promise can be achieved by placing a space between the two parentheses:
 
               (I like it the way it is. :) )
 
-       In  general, it is left to the writer to choose a style which they pre-
+       In general, it is left to the writer to choose a style which they  pre-
        fer.
 
 
-       See also: <http://xkcd.com/541/>
+       See also: <http://xkcd.com/541>
 
 
 AUTHORS
-       hardmath123, Tamini, rtmiu
+       hardmath123, Tamini, rtmiu, zippynk
 
 
 LICENSE
-       This list is Unlicensed. You should have received a copy of  the  Unli-
+       This  list  is Unlicensed. You should have received a copy of the Unli-
        cense  with  this  file.  If  not,  you  can  obtain  it  for  free  at
        <http://unlicense.org>.
 
 
 CONTRIBUTING
        Contributions are welcome, as long as they are well-intentioned, suffi-
-       ciently  accurate, and suitably notable. Please submit pull requests to
-       the git repository contianing the original groff source. If  there  are
-       many  commits  in  your  PR,  please recompile README.txt at most once,
+       ciently accurate, and suitably notable. Please submit pull requests  to
+       the  git  repository contianing the original groff source. If there are
+       many commits in your PR, please  recompile  README.txt  at  most  once,
        preferably at the end in a separate commit with an appropriate message.
 
-       You  can  find  instructions  on how to build this file in the Makefile
-       bundled with the source. A comment at the top of  the  source  provides
-       resources  for  working  with  groff(1), however, you should be able to
+       You can find instructions on how to build this  file  in  the  Makefile
+       bundled  with  the  source. A comment at the top of the source provides
+       resources for working with groff(1), however, you  should  be  able  to
        figure out what's going on yourself.
 
 
 SEE ALSO
-       <http://urbandictionary.com>
+       <http://www.urbandictionary.com>
 
 
 
