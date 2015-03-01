@@ -75,27 +75,43 @@ BASIC
               ing.
 
 
+       :3     The 'kitty face'. Conveys a cat-like feeling of happiness.
+
+
+       c:     Conveys a heightened sense of happiness, joy, etc.
+
+
+       :c     Conveys a heightened sense of  sadness,  sudden  disappointment,
+              etc.
+
+
+       :|     Conveys indifference or mild annoyance.
+
+
+       :<     Conveys anger or moderate annoyance.
+
+
 NOTE ON PARENTHESES
        The  usage  of  parenthesis-terminated  emoticons  within  parenthsized
-       statements  merits some discussion.  There are several possible conven-
+       statements merits some discussion.  There are several possible  conven-
        tions which can be used.
 
-       We can optimize for grammatical correctness by  placing  an  additional
+       We  can  optimize  for grammatical correctness by placing an additional
        closing parenthesis after the emoticon:
 
               (I like it the way it is. :))
 
-       However,  this  looks  awkward to many. The alternative is to leave off
+       However, this looks awkward to many. The alternative is  to  leave  off
        the trailing parenthesis:
 
               (I like it the way it is. :)
 
-       This, however, appears incomplete and is not strictly correct.  A  com-
+       This,  however,  appears incomplete and is not strictly correct. A com-
        promise can be achieved by placing a space between the two parentheses:
 
               (I like it the way it is. :) )
 
-       In general, it is left to the writer to choose a style which they  pre-
+       In  general, it is left to the writer to choose a style which they pre-
        fer.
 
 
@@ -107,17 +123,17 @@ AUTHORS
 
 
 LICENSE
-       This  list  is Unlicensed. You should have received a copy of the Unli-
+       This list is Unlicensed. You should have received a copy of  the  Unli-
        cense  with  this  file.  If  not,  you  can  obtain  it  for  free  at
        <http://unlicense.org>.
 
 
 CONTRIBUTING
        Contributions are welcome, as long as they are well-intentioned, suffi-
-       ciently accurate, and suitably notable. Please submit pull requests  to
+       ciently  accurate, and suitably notable. Please submit pull requests to
        the git repository contianing the original groff source.
 
-       To  test  your changes, you must have groff(1) installed. Run either of
+       To test your changes, you must have groff(1) installed. Run  either  of
        the following to verify that the formatting hasn't broken:
 
               $ make README.txt
