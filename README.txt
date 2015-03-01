@@ -35,16 +35,19 @@ BASIC
 
        Finally, some smileys are reversible due to the symmetry  of  the  con-
        stituent  characters. In such cases, the most commonly-used orientation
-       is listed first.
+       (generally eyes-first) is used.
 
 
-       :) or (:
-              Perhaps the most basic emoticon listed. Conveys happiness,  con-
+       :)     Perhaps the most basic emoticon listed. Conveys happiness,  con-
               tentment, gratitude, etc.
 
 
-       :( or ):
-              Conveys sadness, disappointment, and misery.
+       :(     Conveys sadness, disappointment, and misery.
+
+
+       ;)     Like  a  wink. Indicates that some positive information was left
+              unsaid, but that based on context the reader should be  able  to
+              derive this information.
 
 
        :P     Indicates  that the preceding remark was humerous, sarcastic, or
@@ -89,6 +92,9 @@ BASIC
 
 
        :<     Conveys anger or moderate annoyance.
+
+
+       >:(    Conveys anger, disappointment, resent, fury.
 
 
 NOTE ON PARENTHESES
@@ -141,6 +147,9 @@ CONTRIBUTING
               $ man ./emo.7
 
               $ groff -man -Tascii emo.7
+
+       If  there  are  many commits in your PR, please recompile README.txt at
+       most once: at the end in a separate commit with an appropriate message.
 
 
 SEE ALSO
