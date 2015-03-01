@@ -94,6 +94,16 @@ BASIC
        :<     Conveys anger or moderate annoyance.
 
 
+       :x     Conveys nervousness or slight embarrassment at something said.
+
+
+       >:) or >:D or >:3
+              Conveys a sense of devious happiness or 'evil laughter'.
+
+
+       >:|    Conveys moderately high annoyance.
+
+
        >:(    Conveys anger, disappointment, resent, fury.
 
 
