@@ -99,6 +99,9 @@ NOTE ON PARENTHESES
        fer.
 
 
+       See also: <http://xkcd.com/541/>
+
+
 AUTHORS
        hardmath123, Tamini
 
