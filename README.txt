@@ -119,7 +119,7 @@ NOTE ON PARENTHESES
 
 
 AUTHORS
-       hardmath123, Tamini
+       hardmath123, Tamini, rtmiu
 
 
 LICENSE
