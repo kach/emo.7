@@ -48,7 +48,8 @@ BASIC
               tentment, gratitude, etc.
 
 
-       :(     Conveys sadness, disappointment, and misery.
+       :( or :'(
+              Conveys sadness, disappointment, and misery.
 
 
        ;)     Like  a  wink. Indicates that some positive information was left
@@ -113,28 +114,51 @@ BASIC
        >:(    Conveys anger, disappointment, resent, fury.
 
 
+       <3     A heart. Conveys love or appreciation.
+
+
+       o/ or \o
+              A person waving. Used as a greeting.
+
+
+              A person with both hands up. Used in a celebratory manner.
+
+
+       ^^ or ^.^ or ^_^ or ^-^
+              Conveys happiness or contentedness.
+
+
+       =^.^= or =^_^= or =^-^=
+              Like a variation of the 'kitty face'. Also conveys happiness and
+              contentedness.
+
+
+       -.- or -_-
+              Conveys indifference or annoyance.
+
+
 
 NOTE ON PARENTHESES
        The  usage  of  parenthesis-terminated  emoticons  within  parenthsized
-       statements merits some discussion.  There are several possible  conven-
+       statements  merits some discussion.  There are several possible conven-
        tions which can be used.
 
-       We  can  optimize  for grammatical correctness by placing an additional
+       We can optimize for grammatical correctness by  placing  an  additional
        closing parenthesis after the emoticon:
 
               (I like it the way it is. :))
 
-       However, this looks awkward to many. The alternative is  to  leave  off
+       However,  this  looks  awkward to many. The alternative is to leave off
        the trailing parenthesis:
 
               (I like it the way it is. :)
 
-       This,  however,  appears incomplete and is not strictly correct. A com-
+       This, however, appears incomplete and is not strictly correct.  A  com-
        promise can be achieved by placing a space between the two parentheses:
 
               (I like it the way it is. :) )
 
-       In  general, it is left to the writer to choose a style which they pre-
+       In general, it is left to the writer to choose a style which they  pre-
        fer.
 
 
@@ -146,21 +170,21 @@ AUTHORS
 
 
 LICENSE
-       This list is Unlicensed. You should have received a copy of  the  Unli-
+       This  list  is Unlicensed. You should have received a copy of the Unli-
        cense  with  this  file.  If  not,  you  can  obtain  it  for  free  at
        <http://unlicense.org>.
 
 
 CONTRIBUTING
        Contributions are welcome, as long as they are well-intentioned, suffi-
-       ciently  accurate, and suitably notable. Please submit pull requests to
-       the git repository contianing the original groff source. If  there  are
-       many  commits  in  your  PR,  please recompile README.txt at most once,
+       ciently accurate, and suitably notable. Please submit pull requests  to
+       the  git  repository contianing the original groff source. If there are
+       many commits in your PR, please  recompile  README.txt  at  most  once,
        preferably at the end in a separate commit with an appropriate message.
 
-       You  can  find  instructions  on how to build this file in the Makefile
-       bundled with the source. A comment at the top of  the  source  provides
-       resources  for  working  with  groff(1), however, you should be able to
+       You can find instructions on how to build this  file  in  the  Makefile
+       bundled  with  the  source. A comment at the top of the source provides
+       resources for working with groff(1), however, you  should  be  able  to
        figure out what's going on yourself.
 
 
