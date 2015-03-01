@@ -1,4 +1,5 @@
 
+
 emo(7)                        The Emoticon Guide                        emo(7)
 
 
@@ -21,6 +22,11 @@ INSTALLATION
               $ sudo make -e install
 
               $ sudo make -e uninstall
+
+
+       It can then be accessed with the traditional
+
+              $ man emo
 
 
 BASIC
@@ -107,6 +113,7 @@ BASIC
        >:(    Conveys anger, disappointment, resent, fury.
 
 
+
 NOTE ON PARENTHESES
        The  usage  of  parenthesis-terminated  emoticons  within  parenthsized
        statements merits some discussion.  There are several possible  conven-
@@ -147,19 +154,14 @@ LICENSE
 CONTRIBUTING
        Contributions are welcome, as long as they are well-intentioned, suffi-
        ciently  accurate, and suitably notable. Please submit pull requests to
-       the git repository contianing the original groff source.
+       the git repository contianing the original groff source. If  there  are
+       many  commits  in  your  PR,  please recompile README.txt at most once,
+       preferably at the end in a separate commit with an appropriate message.
 
-       To test your changes, you must have groff(1) installed. Run  either  of
-       the following to verify that the formatting hasn't broken:
-
-              $ make README.txt
-
-              $ man ./emo.7
-
-              $ groff -man -Tascii emo.7
-
-       If  there  are  many commits in your PR, please recompile README.txt at
-       most once: at the end in a separate commit with an appropriate message.
+       You  can  find  instructions  on how to build this file in the Makefile
+       bundled with the source. A comment at the top of  the  source  provides
+       resources  for  working  with  groff(1), however, you should be able to
+       figure out what's going on yourself.
 
 
 SEE ALSO

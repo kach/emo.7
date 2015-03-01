@@ -1,18 +1,9 @@
-.\" To build me, use
-.\"     groff -man -Tascii emo.7
-.\" Alternatively, you can use
-.\"     man ./emo.7
-.\"
-.\" To create a printable version of me, use
-.\"     groff -man -Tps -fC emo.7
-.\" This will emit a postscript file that can be printed of PDFified.
-.\"
-.\" These things are all kind of touchy, so ymmv.
 .\" For information on how to format me, see
 .\"     https://www.gnu.org/software/groff/manual/html_node/Man-usage.html
 .\"     http://www.tldp.org/HOWTO/Man-Page/q3.html
 .\"     http://babbage.cs.qc.edu/courses/cs701/Handouts/man_pages.html
 .\"     http://www.schweikhardt.net/man_page_howto.html
+
 
 .TH emo 7 2015-2-27 "Revision 0.1" "The Emoticon Guide"
 
@@ -40,6 +31,13 @@ $ export MANDIR="..." # defaults to /usr/share/man/
 $ sudo make -e install
 
 $ sudo make -e uninstall
+.RE
+
+.P
+It can then be accessed with the traditional
+
+.RS
+$ man emo
 .RE
 
 .SH
@@ -174,21 +172,14 @@ CONTRIBUTING
 .P
 Contributions are welcome, as long as they are well-intentioned, sufficiently
 accurate, and suitably notable. Please submit pull requests to the git
-repository contianing the original groff source.
+repository contianing the original groff source. If there are many commits in
+your PR, please recompile README.txt at most once, preferably at the end in a
+separate commit with an appropriate message.
 
-To test your changes, you must have groff(1) installed. Run either of the
-following to verify that the formatting hasn't broken:
-
-.RS
-$ make README.txt
-
-$ man ./emo.7
-
-$ groff -man -Tascii emo.7
-.RE
-
-If there are many commits in your PR, please recompile README.txt at most once:
-at the end in a separate commit with an appropriate message.
+You can find instructions on how to build this file in the Makefile bundled
+with the source. A comment at the top of the source provides resources for
+working with groff(1), however, you should be able to figure out what's going
+on yourself.
 
 .SH
 SEE ALSO
