@@ -121,7 +121,7 @@ BASIC
               A person waving. Used as a greeting.
 
 
-              A person with both hands up. Used in a celebratory manner.
+       \o/    A person with both hands up. Used in a celebratory manner.
 
 
        ^^ or ^.^ or ^_^ or ^-^
