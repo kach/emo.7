@@ -3,7 +3,7 @@ MANDIR=/usr/share/man/
 
 README.txt : emo.7
 	# Emits a plaintext version without control characters.
-	groff -man -Tascii emo.7 | col -bx > README.txt
+	groff -man -Tutf8 emo.7 | col -bx > README.txt
 
 emo.ps : emo.7
 	# Emits a PostScript file that can be turned into a PDF for printing.
