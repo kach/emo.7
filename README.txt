@@ -142,6 +142,16 @@ THE LIST
               Conveys indifference or annoyance.
 
 
+       ;.; or ;_; or ;‐; or T.T or T_T or T‐T
+              Like a person crying. Conveys sadness.
+
+
+       ._.    Conveys shock or disappointment.
+
+
+       x.x    Conveys fatigue or exhaustion.
+
+
        O_o or O.o or 0.o or o_0
               Conveys  surprise  or astonishment. Any combination of zero (0),
               capital O (O), and lowercase O (o), and either a dot (.)  or  an
