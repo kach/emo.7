@@ -1,5 +1,3 @@
-
-
 emo(7)                        The Emoticon Guide                        emo(7)
 
 
