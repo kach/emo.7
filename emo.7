@@ -4,6 +4,9 @@
 .\"     http://babbage.cs.qc.edu/courses/cs701/Handouts/man_pages.html
 .\"     http://www.schweikhardt.net/man_page_howto.html
 
+.\" For URLs
+.mso www.tmac
+
 .TH emo 7 2015-2-27 "Revision 0.1" "The Emoticon Guide"
 
 .SH
@@ -20,7 +23,7 @@ INSTALLATION
 
 .P
 On UNIX systems, this document can be installed so that it is accessible with
-man(1):
+.BR man(1) :
 
 .RS
 $ cd emo/
@@ -46,8 +49,9 @@ HOW TO USE THIS MANUAL
 This manual is meant to be used in one of two ways: forward-searching for the
 definition of an emoticon and reverse-searching for an appropriate emoticon for
 some context. Either search can be performed manually by perusing the list, or
-by using your pager's search feature (for example, less(1) lets you search with
-the `/` character).
+by using your pager's search feature (for example,
+.BR less(1)
+lets you search with the `/` character).
 
 .P
 Many emoticons may be rewritten using three characters by placing a hyphen (-)
@@ -190,7 +194,8 @@ be achieved by placing a space between the two parentheses:
 In general, it is left to the writer to choose a style which they prefer.
 
 .P
-See also: <http://xkcd.com/541/>
+See also:
+.URL http://xkcd.com/541/ "xkcd/541"
 
 .SH
 AUTHORS
@@ -203,24 +208,28 @@ LICENSE
 
 .P
 This list is Unlicensed. You should have received a copy of the Unlicense with
-this file. If not, you can obtain it for free at <http://unlicense.org>.
+this file. If not, you can obtain it for free
+.URL http://unlicense.org here .
 
 .SH
 CONTRIBUTING
 
 .P
 Contributions are welcome, as long as they are well-intentioned, sufficiently
-accurate, and suitably notable. Please submit pull requests to the git
-repository containing the original groff source. If there are many commits in
-your PR, please recompile README.txt at most once, preferably at the end in a
-separate commit with an appropriate message.
+accurate, and suitably notable. Please submit pull requests to the
+.URL https://github.com/Hardmath123/emo.7 "git repository"
+containing the original groff source. If there are many commits in your PR,
+please recompile README.txt at most once, preferably at the end in a separate
+commit with an appropriate message.
 
 You can find instructions on how to build this file in the Makefile bundled
 with the source. A comment at the top of the source provides resources for
-working with groff(1), however, you should be able to figure out what's going
-on yourself.
+working with
+.\" The space between groff(1) and , won't get printed. See man(7).
+.BR groff(1) ,
+however, you should be able to figure out what's going on yourself.
 
 .SH
 SEE ALSO
 
-<http://urbandictionary.com>
+.URL http://urbandictionary.com UrbanDictionary

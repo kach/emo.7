@@ -1,4 +1,5 @@
 
+
 emo(7)                        The Emoticon Guide                        emo(7)
 
 
@@ -186,7 +187,7 @@ NOTE ON PARENTHESES
        fer.
 
 
-       See also: <http://xkcd.com/541/>
+       See also: xkcd/541 ⟨http://xkcd.com/541/⟩
 
 
 AUTHORS
@@ -195,16 +196,17 @@ AUTHORS
 
 LICENSE
        This list is Unlicensed. You should have received a copy of  the  Unli‐
-       cense  with  this  file.  If  not,  you  can  obtain  it  for  free  at
-       <http://unlicense.org>.
+       cense with this file. If not, you can obtain it for free here ⟨http://
+       unlicense.org⟩.
 
 
 CONTRIBUTING
        Contributions are welcome, as long as they are well‐intentioned, suffi‐
        ciently  accurate, and suitably notable. Please submit pull requests to
-       the git repository containing the original groff source. If  there  are
-       many  commits  in  your  PR,  please recompile README.txt at most once,
-       preferably at the end in a separate commit with an appropriate message.
+       the git  repository  ⟨https://github.com/Hardmath123/emo.7⟩  containing
+       the original groff source. If there are many commits in your PR, please
+       recompile README.txt at most once, preferably at the end in a  separate
+       commit with an appropriate message.
 
        You  can  find  instructions  on how to build this file in the Makefile
        bundled with the source. A comment at the top of  the  source  provides
@@ -213,7 +215,7 @@ CONTRIBUTING
 
 
 SEE ALSO
-       <http://urbandictionary.com>
+       UrbanDictionary ⟨http://urbandictionary.com⟩
 
 
 
