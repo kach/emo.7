@@ -48,7 +48,8 @@ HOW TO USE THIS MANUAL
 
 
 THE LIST
-       :)     Perhaps  the most basic emoticon listed. Conveys happiness, con-
+       :) or =)
+              Perhaps  the most basic emoticon listed. Conveys happiness, con-
               tentment, gratitude, etc.
 
 
@@ -56,23 +57,24 @@ THE LIST
               Conveys sadness, disappointment, and misery.
 
 
-       ;)     Like a wink. Indicates that some positive information  was  left
-              unsaid,  but  that based on context the reader should be able to
-              derive this information.
+       ;)     Like a wink. Indicates that some information  was  left  unsaid,
+              but  that  based  on context the reader should be able to derive
+              this information.
 
 
        :P     Indicates that the preceding remark was humerous, sarcastic,  or
               otherwise lighthearted and not meant to be taken seriously.
 
 
-       :D     Conveys gladness, extreme joy, sudden excitement, etc.
+       :D or =D
+              Conveys gladness, extreme joy, sudden excitement, etc.
 
 
        D:     Conveys sudden disappointment, sadness, devastation, etc.
 
 
        :/     Conveys uncertainty about a situation. Indicates doubt or confu-
-              sion.
+              sion.  Also can indicate indifference in some cases.
 
 
        :O or :o
@@ -80,7 +82,7 @@ THE LIST
               reaction.
 
 
-       B) or BD
+       B) or BD or 8) or 8D
               Indicates  that the speaker feels a certain degree of "coolness"
               after having said the preceding remark.
 
@@ -89,13 +91,18 @@ THE LIST
               ing.
 
 
-       :3     The `kitty face'. Conveys a cat-like feeling of happiness.
+       DX     Similarly  to  D:  this  conveys sudden disappointment, sadness,
+              devastation, etc.
+
+
+       :3 or =3
+              The `kitty face'. Conveys a cat-like feeling of happiness.
 
 
        c:     Conveys a heightened sense of happiness, joy, etc.
 
 
-       :c     Conveys  a  heightened  sense of sadness, sudden disappointment,
+       :c     Conveys a heightened sense of  sadness,  sudden  disappointment,
               etc.
 
 
@@ -138,7 +145,7 @@ THE LIST
 
 
        -.- or -_-
-              Conveys indifference or annoyance.
+              Indicates annoyance. Can also be used to indicate  indifference.
 
 
        ;.; or ;_; or ;-; or T.T or T_T or T-T
@@ -189,7 +196,7 @@ NOTE ON PARENTHESES
 
 
 AUTHORS
-       hardmath123, Tamini, rtmiu
+       hardmath123, Tamini, rtmiu, MegaApuTurkUltra
 
 
 LICENSE
