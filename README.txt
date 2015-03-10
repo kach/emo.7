@@ -222,6 +222,8 @@ CONTRIBUTING
 SEE ALSO
        UrbanDictionary <http://urbandictionary.com>
 
+       The Jargon Files <http://www.catb.org/jargon/>
+
 
 
 Revision 0.1                       2015-2-27                            emo(7)
