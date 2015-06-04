@@ -168,6 +168,11 @@ THE LIST
               Conveys distress or frustration.
 
 
+       lel    A  more  sarcastic  version  of "lol". "lel" is rarely a typo of
+              "lol". "lel" typically signies that a  comment  was  funny,  but
+              only at the expense of the person who said it.
+
+
 NOTE ON PARENTHESES
        The  usage  of  parenthesis-terminated  emoticons  within parenthesized
        statements merits some discussion.  There are several possible  conven-
@@ -196,7 +201,7 @@ NOTE ON PARENTHESES
 
 
 AUTHORS
-       hardmath123, Tamini, rtmiu, MegaApuTurkUltra
+       hardmath123, Tamini, rtmiu, MegaApuTurkUltra, bobbybee
 
 
 LICENSE
